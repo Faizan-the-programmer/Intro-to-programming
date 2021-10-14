@@ -59,7 +59,7 @@ It was developed by Bjarne Stroustrup, as an extension to the C language.
 * C++ is fun and easy to learn!
 * As C++ is close to C# and java, it makes it easy to switch between C#, C++ and java.
 
-#### Basics
+#### Components of C++ code
 ```C++
  // C++ Hello World Program
 include <iostream>
@@ -76,4 +76,17 @@ The following program is a basic C++ program that prints out: ***Hello World!***
 Now I am going to break the code and explain the parts of it.
 
 **1. The *//* in the beggining of the code is known as a comment. This part of the code is ignored by the compiler.**
+   
 **2. The *#include* on the 2nd line liks to the iostream which is the standard file which is necessary for basic input/output library in C++**
+   
+**3. The 3rd line indicates, all elements of the standard C++ library are declared within a namespace.  Here we are using the std namespace.**
+   
+**4. The 4th line The execution of any C++ program starts with the main function, hence it is necessary to have a main function in your program. ‘int’ is the return value of this function. (We will be studying functions in more detail later).**
+   
+**5. The curly brackets are used to indicate the starting and ending point of any function. Every opening bracket should have a another closing bracket.**
+
+**6. In ``` cout << "Hello World!\n";```, the "cout" stands for Charecter Out.**
+
+**7. On the following line the text between quotations will be printed on the screen. \n will not be printed, it is used to add a line break. Each line ends with (;)**
+   
+**8. On the line 7 the return signifies end of a function. Here the function is main, so when we hit return 0, it exits the program. We are returning 0 because we mentioned the return type of the main function as integer (int main). A zero indicates that everything went fine and one indicates that something has gone wrong.**
