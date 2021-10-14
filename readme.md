@@ -1,6 +1,6 @@
-#<span style="color:Red">My Guide to Get Started Programming
+# <span style="color:Red">My Guide to Get Started Programming
 ___
-###Contents:
+### Contents:
 * Introduction to programming
     * Introduction to text editor
         * Vs Code
@@ -8,7 +8,7 @@ ___
     * Introduction to python
 * Some Resources To Practice
 ___
-###Introduction to programming
+### Introduction to programming
 
 Now before we understand what programming is, you must know what is a computer. 
 
@@ -37,12 +37,12 @@ Programming languages can be then divided into High level and Low level language
 
 A computer only understands binary language that is 1's and 0's.
 
-###Introduction to text editor
+### Introduction to text editor
 A text editor is a simple computer program that allows users to create, change, or edit plain text files. It can be used for creating computer programs, editing the source code of programming languages, editing hypertext markup language (HTML), and creating web pages or web design templates. 
 
 Examples of few text editors are: Notepad, Notepad++, VS Code, Sublime text, Nano, Vim, etc.
 
-###Introduction to C++/Cpp
+### Introduction to C++/Cpp
 C++ is a general purpose programming language. It can be used to write different types of programs.
 
 It can be used for both command line and Graphical User Interfase (GUI) type of programs.
@@ -51,7 +51,7 @@ Cpp is a high perfomence language applications.
 
 It was developed by Bjarne Stroustrup, as an extension to the C language.
 
-####Why Use C++
+#### Why Use C++
 * C++ is one the most world's most popular programming languages.
 * C++ is used to make Operating Systems', GUI's and embedded systems.
 * C++ is an Objected Oriented Programming language that gives a clear structure to programs and allows code to be reused, lowering development costs.
@@ -59,7 +59,7 @@ It was developed by Bjarne Stroustrup, as an extension to the C language.
 * C++ is fun and easy to learn!
 * As C++ is close to C# and java, it makes it easy to switch between C#, C++ and java.
 
-####Basics
+#### Basics
 ```C++
  // C++ Hello World Program
 include <iostream>
